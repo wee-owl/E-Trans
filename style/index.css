@@ -424,6 +424,14 @@ body {
         padding-left: max(30px, calc((100% - 1180px) / 2));
         padding-right: 0;
     }
+    
+    .ymaps-2-1-79-image {
+        width: 40px!important;
+        height: 40px!important;
+        background-size: 40px 40px!important;
+        left: -20px!important;
+        top: -40px!important;
+    }
 }
 
 @media (max-width: 940px) {
